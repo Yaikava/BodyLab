@@ -1,6 +1,6 @@
 // import { } from "./deps" - Import any sort of exported dependency from deps.ts
 
-export interface Features { // Here you are able to set the bodyFeatures used bellow
+export interface Features { // Here you are able to set the bodyFeatures used below
     height: number; // in cm
     weight: number; // in kg
     shoeSize: number; // Can be EU, US, MX, whatever shoe size u want, just make sure to reference it with a comment, standard is EU
