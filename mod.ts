@@ -5,7 +5,7 @@ const HypeLevels = new MakePerson({
     lastname: "Levels",
     gender: "Male",
     pronouns: ["He", "Him"],
-    age: 14,
+    age: Math.floor(Math.random() * 69),
     bodyFeatures: {
         weight: Math.floor(Math.random() * 80),
         skills: ["I can't code"],
